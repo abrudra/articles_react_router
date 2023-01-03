@@ -17,7 +17,7 @@ class Navbar extends Component {
             alt="logo"
             className="logo"
             src="https://www.svgrepo.com/show/35381/white-home.svg"
-          />{" "}
+          />
           Home
         </NavLink>
         <NavLink className="navlink" style={this.navLinkStyle} to="articles">
